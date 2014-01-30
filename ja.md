@@ -1,0 +1,42 @@
+# Thrift: スケーラブルで言語横断的なサービスの実装
+
+Mark Slee
+Aditya Agarwal
+Marc Kwiatkowski
+
+Facebook, 156 University Ave, Palo Alto, CA
+
+{mcslee,aditya,marc}@facebook.com
+
+## 要約
+
+Thrift は、Facebook で開発された、効率的でスケーラブルなバックエンドサービスの開発を支援するためのソフトウェア群、コードジェネレータツール群です。
+
+## 1. 導入
+
+## 2. Types
+
+## 3. Transport
+
+## 4. Protocol
+
+## 5. Versioning
+
+## 6. RPC の実装
+
+## 7. 実装詳細
+
+## 8. Facebook での事例
+
+## 9. まとめ
+
+## 謝辞
+
+Thrift に対するフィードバックを頂いた事について、Martin Smith, Karl Voskuil, Yishan Wong に感謝します。
+
+Thrift は Adam D’Angelo の開発した Pillar というシステムの後継プロジェクトです。Pillar は最初 Caltech で開発され、後に Facebook で開発が継続されました。Thrift は Adam の見識が無ければ存在しなかったでしょう。
+
+## 参考文献
+
+[1] Kempf, William, “Boost.Threads”, http://www.boost.org/doc/html/threads.html
+[2] Henkel, Philipp, “threadpool”, http://threadpool.sourceforge.net
