@@ -1,3 +1,9 @@
+
+This is a Japanese translation of the paper "Thrift: Scalable Cross-Language Services Implementation" by Facebook engineers. ( http://thrift.apache.org/static/files/thrift-20070401.pdf )
+
+WIP.
+
+----
 # Thrift: スケーラブルで言語横断的なサービスの実装
 
 Mark Slee,
