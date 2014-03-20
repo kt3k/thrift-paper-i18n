@@ -6,9 +6,7 @@ WIP.
 ----
 # Thrift: スケーラブルで言語横断的なサービスの実装
 
-Mark Slee,
-Aditya Agarwal,
-Marc Kwiatkowski
+マーク・スリー、アーディチャ・アガルワル、マーク・クヴィアトコウスキ
 
 Facebook, 156 University Ave, Palo Alto, CA
 
